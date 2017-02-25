@@ -1,1 +1,1 @@
-# Ansible dynamic inventory script to list of CEPH nodes grouped by mon, osd & mds
+# Ansible dynamic inventory script to for CEPH nodes grouped by mon, osd & mds

@@ -3,7 +3,7 @@
 # (c) 2017 Swapnil Jain <swapnil@linux.com>
 #          Nirmit Patel <nirmit@mask365.com>
 #          
-# Ansible dynamic inventory script to list of CEPH nodes grouped by mon, osd & mds
+# Ansible dynamic inventory script for CEPH nodes grouped by mon, osd & mds
 
 import os
 import sys
